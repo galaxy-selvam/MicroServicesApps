@@ -1,5 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
+using ProductMicroservice.AzureConnector;
 
 namespace ProductMicroservice
 {
@@ -9,8 +10,13 @@ namespace ProductMicroservice
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //Get Azure Connection String
+            var sqlConnectionProvider = new SqlConnectionProvider();
+            string connectionString = sqlConnectionProvider.GetConnectionStringAsync().GetAwaiter().GetResult();
+
             // Add DBContext
-            builder.Services.AddDbContext<ProductContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            //builder.Services.AddDbContext<ProductContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddDbContext<ProductContext>(options => options.UseSqlServer(connectionString));
 
             // Add services to the container.
 
