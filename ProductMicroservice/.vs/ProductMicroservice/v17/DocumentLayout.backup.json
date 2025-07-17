@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|d:\\codingpractices\\microservices\\productmicroservice\\productmicroservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|solutionrelative:productmicroservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|d:\\codingpractices\\microservices\\productmicroservice\\productmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|solutionrelative:productmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|d:\\codingpractices\\microservices\\productmicroservice\\productmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13E98AAA-CAD9-4463-BA75-2DE55A8E9C47}|ProductMicroservice\\ProductMicroservice.csproj|solutionrelative:productmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMicroservice\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMicroservice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:35:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductMicroservice\\appsettings.json",
+              "ToolTip": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\appsettings.json",
+              "RelativeToolTip": "ProductMicroservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T09:14:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMicroservice\\Program.cs",
+              "ToolTip": "D:\\CodingPractices\\MicroServices\\ProductMicroservice\\ProductMicroservice\\Program.cs",
+              "RelativeToolTip": "ProductMicroservice\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:11:13.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
